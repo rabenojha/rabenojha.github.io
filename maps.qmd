@@ -1,0 +1,29 @@
+---
+title: "Maps and Geovisualization"
+lightbox: true
+---
+
+I like to make maps and visualizations at the intersection of open data, disasters and GIS. 
+ 
+
+::: {.column-page-inset}
+
+::: {layout-nrow=3 layout-valign="center" }
+![Earthquakes in Nepal](/assets/img/maps/eq_nepal.png){group="my-gallery"}
+
+![Violence in Cabo Delgado](assets/img/maps/violence_cabo_delgado.gif){group="my-gallery"}
+
+![Buddha Air flight operation](/assets/img/maps/map2.jpg){group="my-gallery"}
+
+![Landlocked developing countries](assets/img/maps/map17.jpg){group="my-gallery"}
+
+![NDVI for Prague](assets/img/maps/prague_NDVI.png){group="my-gallery"}
+
+![Growth of building footprints in Herat, Afghanistan](assets/img/maps/herat.gif){group="my-gallery"}
+
+
+:::
+
+:::
+
+More maps and visualizations can be viewed [**here**](https://github.com/rabenojha/mapfolio){target="_blank"}

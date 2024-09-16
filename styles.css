@@ -1,0 +1,13 @@
+a {
+    color: rgba(0, 0, 0, 0.767); 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #0056b3; 
+}
+
+figcaption {
+    /* margin: auto; */
+    text-align: center;
+  }
