@@ -8,18 +8,27 @@ I like to make maps and visualizations at the intersection of open data, disaste
 
 ::: {.column-page-inset}
 
-::: {layout-nrow=3 layout-valign="center" }
+::: {layout-nrow=4 layout-valign="center" }
+
+![Highest peaks in Nepal](assets/img/maps/highest_peaks_in_the_world.jpg){group="my-gallery"}
+
+![Elevation profile for Prague](assets/img/maps/lego_prague.png){group="my-gallery"}
+
 ![Earthquakes in Nepal](/assets/img/maps/eq_nepal.png){group="my-gallery"}
+
+![Old people in Czechia](/assets/img/maps/old_people_czechia.png){group="my-gallery"}
 
 ![Violence in Cabo Delgado](assets/img/maps/violence_cabo_delgado.gif){group="my-gallery"}
 
-![Buddha Air flight operation](/assets/img/maps/map2.jpg){group="my-gallery"}
+![Buddha Air (airline company based in Nepal) flight operation](/assets/img/maps/map2.jpg){group="my-gallery"}
 
 ![Landlocked developing countries](assets/img/maps/map17.jpg){group="my-gallery"}
 
 ![NDVI for Prague](assets/img/maps/prague_NDVI.png){group="my-gallery"}
 
 ![Growth of building footprints in Herat, Afghanistan](assets/img/maps/herat.gif){group="my-gallery"}
+
+![OpenStreetMap statistics for Nepal](assets/img/maps/osm_feature_count_Nepal.png){group="my-gallery"}
 
 
 :::
