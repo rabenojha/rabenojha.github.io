@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Technical Skills",
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Maps and Geovisualization",
     "section": "",
-    "text": "Technical Skills\n\n\n\nGIS Softwares: QGIS and ArcGIS (including PyQGIS and ArcPy)\nWeb Development: HTML, CSS and JavaScript\nVersion control tool: Git\n\n\n\n\nProgramming Language: Python\nCloud Platform: Google Earth Engine\nOthers: OpenStreetMap, eCognition, Quarto, Overleaf, Adobe Illustrator, etc.\n\n\n\n\n\nWork Experience\n\nResearch Assistant (March 2024 - now) , Heidelberg Institute for Geoinformation Technology (HeiGIT), Germany\nRemote Sensing Analyst Intern (Summer 2022), German Aerospace Center (DLR), Germany\nCommodity Insights - Data Assistant (January 2022 - June 2022) , Aldi Süd Holdings, Austria\nGIS Analyst (October 2019 - July 2021) , Kathmandu Living Labs, Nepal\n\n\n\nEducation\n\nMaster’s Degree in Earth Observation, Geoinformatics and Geovisualization (2021-2023) from University of Salzburg, Austria and Palacký University Olomouc, Czechia under the Erasmus Mundus Scholarship\nBachelor’s Degree in Geomatics Engineering (2015-2019) from Tribhuvan University, Nepal"
+    "text": "I like to make maps and visualizations at the intersection of open data, disasters and GIS.\n\n\n\n\n\n\n\n\n\n\nHighest peaks in Nepal\n\n\n\n\n\n\n\nElevation profile for Prague\n\n\n\n\n\n\n\nEarthquakes in Nepal\n\n\n\n\n\n\n\n\n\nOld people in Czechia\n\n\n\n\n\n\n\nViolence in Cabo Delgado\n\n\n\n\n\n\n\nBuddha Air (airline company based in Nepal) flight operation\n\n\n\n\n\n\n\n\n\nLandlocked developing countries\n\n\n\n\n\n\n\nNDVI for Prague\n\n\n\n\n\n\n\nGrowth of building footprints in Herat, Afghanistan\n\n\n\n\n\n\n\n\n\nOpenStreetMap statistics for Nepal\n\n\n\n\n\n\nMore maps and visualizations can be viewed here"
   },
   {
     "objectID": "blogs.html",
@@ -14,11 +14,11 @@
     "text": "OSM Nepal: Recalling 2020"
   },
   {
-    "objectID": "maps.html",
-    "href": "maps.html",
-    "title": "Maps and Geovisualization",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Technical Skills",
     "section": "",
-    "text": "I like to make maps and visualizations at the intersection of open data, disasters and GIS.\n\n\n\n\n\n\n\n\n\n\nEarthquakes in Nepal\n\n\n\n\n\n\n\nViolence in Cabo Delgado\n\n\n\n\n\n\n\n\n\nBuddha Air flight operation\n\n\n\n\n\n\n\nLandlocked developing countries\n\n\n\n\n\n\n\n\n\nNDVI for Prague\n\n\n\n\n\n\n\nGrowth of building footprints in Herat, Afghanistan\n\n\n\n\n\n\nMore maps and visualizations can be viewed here"
+    "text": "Technical Skills\n\n\n\nGIS Softwares: QGIS and ArcGIS (including PyQGIS and ArcPy)\nWeb Development: HTML, CSS and JavaScript\nVersion control tool: Git\n\n\n\n\nProgramming Language: Python\nCloud Platform: Google Earth Engine\nOthers: OpenStreetMap, eCognition, Quarto, Overleaf, Adobe Illustrator, etc.\n\n\n\n\n\nWork Experience\n\nResearch Assistant (March 2024 - now) , Heidelberg Institute for Geoinformation Technology (HeiGIT), Germany\nRemote Sensing Analyst Intern (Summer 2022), German Aerospace Center (DLR), Germany\nCommodity Insights - Data Assistant (January 2022 - June 2022) , Aldi Süd Holdings, Austria\nGIS Analyst (October 2019 - July 2021) , Kathmandu Living Labs, Nepal\n\n\n\nEducation\n\nMaster’s Degree in Earth Observation, Geoinformatics and Geovisualization (2021-2023) from University of Salzburg, Austria and Palacký University Olomouc, Czechia under the Erasmus Mundus Scholarship\nBachelor’s Degree in Geomatics Engineering (2015-2019) from Tribhuvan University, Nepal"
   },
   {
     "objectID": "index.html",
